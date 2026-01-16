@@ -3,9 +3,9 @@ namespace LaminasTest\ZendFrameworkBridge\TestAsset;
 
 class ModuleEvent
 {
-    private $listener;
+    private ?ConfigListener $listener;
 
-    public function __construct(ConfigListener $listener = null)
+    public function __construct(?ConfigListener $listener = null)
     {
         $this->listener = $listener ?: new ConfigListener();
     }
