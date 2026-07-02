@@ -1,4 +1,4 @@
-# laminas-zendframework-bridge
+# laminas-zendframework-bridge for testing
 
 [![Build Status](https://github.com/laminas/laminas-zendframework-bridge/workflows/Continuous%20Integration/badge.svg)](https://github.com/laminas/laminas-zendframework-bridge/actions?query=workflow%3A"Continuous+Integration")
 
